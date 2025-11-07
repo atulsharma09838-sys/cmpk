@@ -1,11 +1,11 @@
 {
-    "name": "Google PlayStore CAMPA – Secure Job Finder",
-    "short_name": "Google PlayStore CAMPA – Secure Job Finder",
+    "name": "Google PlayStore CAMPA – Secure Business Portal",
+    "short_name": "Google PlayStore CAMPA – Secure Business Portal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#99262B",
     "theme_color": "#99262B",
-    "description": "CAMPA provides a secure and reliable platform connecting job seekers with employment opportunities across various sectors",
+    "description": "Apply your next business opportunity safely and efficiently with CAMPA BEVERAGES PVT LTD. Our platform is designed to connect business partners with verified enterprises portal while keeping your personal and business information secure and fully compliant with government policies.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
